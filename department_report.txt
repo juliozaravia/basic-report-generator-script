@@ -1,0 +1,29 @@
+
+*******************************************
+****** Total employees by department ******
+*******************************************
+
+### 1
+Department: Development
+Total of employees: 18
+
+### 2
+Department: Human Resources
+Total of employees: 14
+
+### 3
+Department: IT Infraestructure
+Total of employees: 16
+
+### 4
+Department: Sales
+Total of employees: 20
+
+### 5
+Department: User Experience Research
+Total of employees: 16
+
+### 6
+Department: Vendor Operations
+Total of employees: 16
+
